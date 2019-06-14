@@ -3,7 +3,7 @@ def my_hash
 my_hash = {
   my_hair => "curly",
   my_eyes => "hazel",
-  my_nails => "lavender"
+  my_nails => "lavender",
 }
   
 end
